@@ -19,6 +19,7 @@ public class NarutoRunMod extends DummyModContainer
 		ModMetadata meta = getMetadata();
 		meta.modId = "narutorunmod";
 		meta.name = "Naruto Run Mod";
+		meta.version = "1.0";
 		meta.url = "www.youtube.com/canelex";
 		meta.description = "Makes you go possibly 100 times faster.";
 		meta.authorList = Collections.singletonList("canelex");

@@ -1,0 +1,8 @@
+# non-src
+/*
+!/src
+!/.gitignore
+
+# build
+!build.gradle
+
